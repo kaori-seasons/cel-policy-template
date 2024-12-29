@@ -1,0 +1,3 @@
+ERROR: ../../test/testdata/greeting/instance.bad_data.yaml:23:16: invalid enum value: . must be one of: [Aloha Adieu Bye Farewell true]
+ |     farewell: ""
+ | ...............^
